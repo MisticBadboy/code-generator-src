@@ -1,0 +1,7 @@
+{
+    "js" : "console.log(\"Hello, World\")",
+    "ts" : "console.log(\"Hello, World\")",
+    "rs" : "fn main(){\nprintln!(\"Hello, World!\");\n}\n",
+    "cpp" : "#include <bits/stdc++.h>\n\nusing namespace std;\n\nint main(){\ncout << \"Hello, World\" << endl;\n}",
+    "python" : "print(\"Hello, World!\")"
+}
