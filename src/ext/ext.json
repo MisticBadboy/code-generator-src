@@ -3,5 +3,7 @@
     "ts" : "console.log(\"Hello, World\")",
     "rs" : "fn main(){\nprintln!(\"Hello, World!\");\n}\n",
     "cpp" : "#include <bits/stdc++.h>\n\nusing namespace std;\n\nint main(){\ncout << \"Hello, World\" << endl;\n}",
-    "python" : "print(\"Hello, World!\")"
+    "python" : "print(\"Hello, World!\")",
+    "cs" : "System.Console.WriteLine(\"Hello World!\")",
+    "java" : "class HelloWorld\n{\n    public static void main(String[] args) {\n        System.out.println(\"Hello, World!\");\n    }\n}"
 }
